@@ -1,0 +1,3 @@
+[submodule "enterprise/shorty"]
+	path = enterprise/shorty
+	url = https://github.com/focipy/shorty

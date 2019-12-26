@@ -13,15 +13,18 @@ Most of the tools used for projects are eigther open source, free of charge or o
 | [StackEdit](info/StackEdit.md) | Interactive MarkDown Editor |[StackEdit.io](https://stackedit.io/)| IDE (Online)| n/a  |
 | [PyCharm](info/PyCharm.md) | Python development, autocomplete & debugging. | [PyCharm](https://www.jetbrains.com/pycharm/download/) | IDE | n/a |
 | [Docker](info/Docker.md) | Container Management to deploy services. |
+| [Redis Desktop Manager](info/RedisDesktopManager.md) | GUI to check Redis Database. | [RDM](https://redisdesktop.com/) | GUI | Unlimited Free Access on Linux Distors only. |
+| Unsplash | Free Stock Photos with Developer API. | [source.unsplash.com](https://source.unsplash.com) | Resource | n/a |
 
 ### OPS Stack
 
 | Name  | Type | Description |
 | --- | --- | --- |
+| Redis | Database | Open-source in-memory data structure storage. 
 
 ## Works
 
-You can find a list of [available](projects/README.md) and [future](future/README.md) projects, as well as python [packages](packages/README.md).
+You can find a list of [available](enterprise/README.md) and [future](future/README.md) projects, as well as python [packages](packages/README.md).
 
 ### Licences
 
